@@ -1,0 +1,7 @@
+{
+	"sout (console.log)": {
+    "prefix": "sout",
+    "body": ["console.log('$1');"],
+    "description": "Shortcut for console.log"
+  }
+}
